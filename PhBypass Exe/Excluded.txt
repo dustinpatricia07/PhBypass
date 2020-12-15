@@ -1,0 +1,86 @@
+Resurgence:
+EntityTypes  != 0
+EntityTypes  != 19 
+EntityTypes  != 29 
+EntityTypes  != 28  
+EntityTypes  != 39 
+EntityTypes  != 25 
+EntityTypes  != 16 
+EntityTypes  != 6 
+EntityTypes  != 26 
+EntityTypes  != 27 
+EntityTypes  != 24 
+EntityTypes  != 25
+
+Dreamer:
+EntityTypes  != 0 
+EntityTypes  != 19  
+EntityTypes  != 29 
+EntityTypes  != 39 
+EntityTypes  != 16 
+EntityTypes  != 4 
+EntityTypes  != 26 
+EntityTypes  != 12 
+EntityTypes  != 13 
+EntityTypes  != 24 
+EntityTypes  != 23 
+EntityTypes  != -4 
+EntityTypes  != 948 
+EntityTypes  != 677 
+EntityTypes  != 725 
+EntityTypes  != 25 
+EntityTypes  != 1912
+
+Saga:
+EntityTypes  != 0 
+EntityTypes  != 19 
+EntityTypes  != 29 
+EntityTypes  != 28 
+EntityTypes  != 39
+
+Shade:
+EntityTypes != 19 
+EntityTypes != 1
+EntityTypes != 0
+
+Siege:
+EntityTypes  != 0
+EntityTypes  != 19 
+EntityTypes  != 29 
+EntityTypes  != 28  
+EntityTypes  != 39 
+EntityTypes  != 25 
+EntityTypes  != 16 
+EntityTypes  != 6 
+EntityTypes  != 26 
+EntityTypes  != 27 
+EntityTypes  != 24 
+EntityTypes  != 25
+
+Play For Fun:
+EntityTypes  != 0
+EntityTypes  != 19 
+EntityTypes  != 29 
+EntityTypes  != 28  
+EntityTypes  != 39 
+EntityTypes  != 25 
+EntityTypes  != 16 
+EntityTypes  != 6 
+EntityTypes  != 26 
+EntityTypes  != 27 
+EntityTypes  != 24 
+EntityTypes  != 25
+
+Nitak:
+EntityTypes  != 0
+EntityTypes  != 19 
+EntityTypes  != 29 
+EntityTypes  != 28  
+EntityTypes  != 39 
+EntityTypes  != 25 
+EntityTypes  != 16 
+EntityTypes  != 6 
+EntityTypes  != 26 
+EntityTypes  != 27 
+EntityTypes  != 24 
+EntityTypes  != 25
