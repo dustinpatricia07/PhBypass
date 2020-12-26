@@ -16,14 +16,8 @@ a14b0711-4f1e-46cd-a912-1afa73c1d38c
 		Ralph Zoleta
 d97f293c-b806-461d-80bd-f5c7f8712b96
 
-		Nardo
-7b7f6b48-c738-432f-a90b-2503669dd2c2
-
 		Kristian1
 fec85225-e764-4bc5-9754-970a469e9e09
-
-		RM Ghetti
-8ef9c035-80d8-4302-855f-291fce33b4da
 
 		Josh Mercado
 52f4f734-4bb4-490a-8abf-d311ee7e9817
@@ -51,3 +45,6 @@ a2c852ad-4ffe-4768-a982-3d400f73f613
 
 		Christopher
 e7aefc39-4f17-41d3-ad63-c2ab22c33b13
+
+		Jack
+145fb2ec-1371-401d-9108-07f078e4bfb4
