@@ -1,24 +1,6 @@
 	PhBypass
 56b7fdd2-4dd1-4b4a-8b66-50f8b74b6777
-		 
-  		Rudolfpc1  
-ef697f34-f3fb-4930-9c15-84c87485cdb0
-
-                  Rudolfpc2  
-f0f5da42-6115-498c-b2a3-a3859092e51e 
-
-		Kristian
-838dc4e1-78e5-4845-9292-eb8b18cb71d2
-
-		Art
-a14b0711-4f1e-46cd-a912-1afa73c1d38c
-
-		Ralph Zoleta
-d97f293c-b806-461d-80bd-f5c7f8712b96
-
-		Kristian1
-fec85225-e764-4bc5-9754-970a469e9e09
-
+		
 		Josh Mercado
 2177c5da-0c83-4a0a-800c-629dbd7bc78b
 
@@ -40,20 +22,8 @@ bc208a0a-119f-4d53-a827-ef2999780afb
 		Mark
 99802485-0f90-4043-8e56-976038ec320d
 
-		Angelo
-a2c852ad-4ffe-4768-a982-3d400f73f613
-
-		Jack
-28887c0c-0315-4f8e-9ed2-35ca23d634f4
-
 		Joler
 f79650f7-71b3-4226-ae73-c4f8ebf418c0
 		
-		Jap - PC
-1363bb22-fa30-4bfb-96f3-dd6b69320f70
-
-		Jap1 - Laptop
-678a68ef-c02a-412c-8913-3acab998dffb
-
 		Christopher
 e7aefc39-4f17-41d3-ad63-c2ab22c33b13
