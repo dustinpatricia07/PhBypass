@@ -4,9 +4,6 @@
 		Josh Mercado
 2177c5da-0c83-4a0a-800c-629dbd7bc78b
 
-		Keneth Villar
-c868cb5a-c527-4f7a-a203-48cf4640aeef
-
 		Mayi Sahagun
 aaaf18e8-3150-466b-9cae-9be73996c5ac
 
@@ -27,3 +24,6 @@ f79650f7-71b3-4226-ae73-c4f8ebf418c0
 		
 		Christopher
 e7aefc39-4f17-41d3-ad63-c2ab22c33b13
+
+		Paul
+8f3c2105-55b5-4fb4-8750-627c087f25a7
